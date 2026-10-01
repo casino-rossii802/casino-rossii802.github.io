@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Протокол игрока">
+  <rect width="48" height="48" rx="9" fill="#16203a"/>
+  <path d="M13 34V15a2 2 0 0 1 2-2h6.5a6 6 0 0 1 0 12H17" fill="none" stroke="#9fc0ec" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 20h8m0 0-3.2-3.2M36 20l-3.2 3.2" fill="none" stroke="#5f93d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="33" cy="33" r="3" fill="#5f93d6"/>
+</svg>
